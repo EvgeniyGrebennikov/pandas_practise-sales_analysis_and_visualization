@@ -1,11 +1,13 @@
 ### Описание данных
-<u> Таблица products: </u>
+Исходные данные представлены в папке <b><i>data</i></b>.
+
+<u> Таблица products (файл <b><i>products.xlsx</i></b>): </u>
 - product_id - id товара
 - level1 - категория
 - level2 - подкатегория
 - name - наименование товара
 
-<u> Таблица orders: </u>
+<u> Таблица orders (файл <b><i>orders.xlsx</i></b>): </u>
 - order_id - номер чека
 - accepted_at - дата и время чека
 - product_id - id товара
